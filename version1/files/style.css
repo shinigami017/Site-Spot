@@ -1,0 +1,75 @@
+body {
+    background-color: lightcyan;
+}
+
+.main-container {
+    max-width: 100%;
+    height: 100%;
+    padding: 40px;
+}
+
+.btn-container {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-container .btn-box {
+    margin: 10% 0;
+    text-align: center;
+}
+
+.btn-container .btn-box .site-btn {
+    font-family: cursive;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: 800;
+    color: black;
+    padding: 20px;
+    padding: 10%;
+    border: 2px solid black;
+    background-color: lightcoral;
+    border-radius: 50%;
+}
+
+.btn-container .btn-box .site-btn:hover {
+    /* color: #fff; */
+    background-color: red;
+}
+
+@media (max-width: 700px) {
+    .btn-container {
+        display: block;
+    }
+    .btn-container .btn-box .site-btn {
+        font-size: 25px;
+        font-weight: 800;
+        padding: 5%;
+    }
+}
+
+
+/* 
+.btn-container .btn-box .site-btn-1:hover {
+    background-color: yellow;
+}
+
+.btn-container .btn-box .site-btn-2:hover {
+    background-color: red;
+}
+
+.btn-container .btn-box .site-btn-3:hover {
+    background-color: blue;
+}
+
+.btn-container .btn-box .site-btn-4:hover {
+    background-color: lime;
+}
+
+.btn-container .btn-box .site-btn-5:hover {
+    background-color: pink;
+}  */
