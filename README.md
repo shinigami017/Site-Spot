@@ -11,7 +11,10 @@ which could sum up all other random website generators, as they all provide a qu
 
 Try it out. [demo](https://shinigami017.github.io/Site-Spot/index.html)
 
-If people like this one, then they will be happy to know about the ###Version2### of this project which will include :
-* ####Categories#### : Different categories for efficient website generation, as per the need of user.
-* ####In-built Frame#### : In-built Frame for launching the site, so that user does not have to leave the page for another website.
-* ####Upgarded UI#### : Upgraded and enhanced UI for making it more user-friendly.
+If people like this one, then they will be happy to know about the Version2 of this project which will include :
+* #### Categories
+  Different categories for efficient website generation, as per the need of user.
+* #### In-built Frame
+  In-built Frame for launching the site, so that user does not have to leave the page for another website.
+* #### Upgarded UI
+  Upgraded and enhanced UI for making it more user-friendly.
