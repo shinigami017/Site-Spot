@@ -1,5 +1,5 @@
 var sites = sites_data.slice(0),
-    range_limit = 10;
+    range_limit = sites.length / 4;
 const button = document.querySelector(".site-btn");
 
 // const buttons = document.querySelectorAll(".site-btn");

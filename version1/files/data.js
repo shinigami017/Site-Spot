@@ -186,7 +186,10 @@ var sites_data = [
 //         "https://www.agegeek.com",
 //         "https://unpigeon.me",
 //         "https://www.yourmetricbirthday.com",
-//         "https://www.rock-paper-scissors-game.com"
+//         "https://www.rock-paper-scissors-game.com",
+//         "https://theuselessweb.site/hereistoday",
+//         "https://theuselessweb.site/ffffidget"
+//         "https://theuselessweb.site/niceonedad",
 //     ],
 //     cool_sites: [
 //         "https://weboas.is",
@@ -212,7 +215,8 @@ var sites_data = [
 //         "http://lawriecape.co.uk/wiblr",
 //         "https://avseoul.net/particleEqualizer",
 //         "https://www.concerthotels.com/got-rhythm",
-//         "https://paveldogreat.github.io/WebGL-Fluid-Simulation"
+//         "https://paveldogreat.github.io/WebGL-Fluid-Simulation",
+//         "https://theuselessweb.site/blueballmachine"
 //     ],
 //     useless_sites: [
 //         "http://www.staggeringbeauty.com",
@@ -235,6 +239,15 @@ var sites_data = [
 //         "http://dogs.are.the.most.moe",
 //         "http://www.trashloop.com",
 //         "http://spaceis.cool",
+//         "https://theuselessweb.site/coloursquares",
+//         "https://theuselessweb.site/fallingguy",
+//         "https://theuselessweb.site/fallingfalling",
+//         "https://theuselessweb.site/tiling",
+//         "https://theuselessweb.site/wewillattack",
+//         "https://theuselessweb.site/pleasetouchme",
+//         "https://theuselessweb.site/beefchickenpork",
+//         "https://theuselessweb.site/hotdoom",
+//         "https://theuselessweb.site/feedderpy",
 //         "https://greatbignothing.com"
 //     ],
 //     useful_sites: [
@@ -248,6 +261,7 @@ var sites_data = [
 //         "https://www.flightradar24.com/51.5,-0.12/8",
 //         "https://www.tunefind.com",
 //         "https://textsmili.es",
-//         "http://dongerlist.com"
+//         "http://dongerlist.com",
+//         "https://theuselessweb.site/uppertolowercase"
 //     ]
 // }
