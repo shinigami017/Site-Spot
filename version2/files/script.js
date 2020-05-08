@@ -38,6 +38,7 @@ function getWebsite(category) {
             url = fun_sites[index];
             // splicing the sites array to prevent revisiting the same site multiple times
             fun_sites.splice(index, 1);
+            break;
         case "cool":
             index = Math.floor(Math.random() * cool_sites.length);
             url = cool_sites[index];
