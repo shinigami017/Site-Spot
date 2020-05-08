@@ -12,10 +12,10 @@ While collecting data for this project, i found many interesting websites which 
 
 Try it out. [demo](https://shinigami017.github.io/Site-Spot/index.html)
 
-Work for next version :
+Future Scope
 
-* #### More efficient algorithm
-This project need a better algorithm for random generation of websites, because somewhere, in each session the pattern of random sites generated looks quite similar.
+* #### More Sites and Categories
+After this, all the work left is to expand the database with lot of different and interesting websites.
 
 * #### Better UI
 Honestly, the UI work on this project is not so good, just basic styling rules are applied. So, it definitely need a better UI.
