@@ -4,6 +4,7 @@ var sites_data = {
         "https://supermariobros.io",
         "https://jellymar.io",
         "https://www.retrogames.cc",
+        "https://skribbl.io/",
         "https://flappybird.io",
         "http://www.slither.io",
         "https://play2048.co",
