@@ -91,7 +91,8 @@ var sites_data = {
         "https://www.rock-paper-scissors-game.com",
         "https://theuselessweb.site/hereistoday",
         "https://theuselessweb.site/ffffidget",
-        "https://theuselessweb.site/niceonedad"
+        "https://theuselessweb.site/niceonedad",
+        "https://virtualvacation.us/guess"
     ],
     cool_sites: [
         "https://weboas.is",
@@ -117,7 +118,8 @@ var sites_data = {
         "https://avseoul.net/particleEqualizer",
         "https://www.concerthotels.com/got-rhythm",
         "https://paveldogreat.github.io/WebGL-Fluid-Simulation",
-        "https://theuselessweb.site/blueballmachine"
+        "https://theuselessweb.site/blueballmachine",
+        "https://virtualvacation.us/guess"
     ],
     useless_sites: [
         "http://www.staggeringbeauty.com",
